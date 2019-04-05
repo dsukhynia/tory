@@ -1,0 +1,15 @@
+.coolTable {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+.coolHeader {
+    background-color: lightgreen;
+}
+.coolRow {
+    padding: 5px;
+}
+.coolRow>div {
+    display: inline-block;
+    width: 25%;
+}
